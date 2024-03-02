@@ -1,0 +1,2 @@
+# foobar
+JavaScript utility library
